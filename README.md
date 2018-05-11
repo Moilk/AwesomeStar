@@ -4,7 +4,7 @@
 
 
 
-[![Awesome](https://img.shields.io/badge/%E2%AD%90-Taxonomy-green.svg)](https://github.com/wasabeef/awesome-android-ui)  
+[![Awesome](https://img.shields.io/badge/%E2%AD%90-awesome-green.svg)](https://github.com/Moilk/AwesomeStar)
 
 
 
