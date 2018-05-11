@@ -4,7 +4,7 @@
 
 
 
-[![Awesome](https://img.shields.io/badge/%E2%AD%90-awesome-green.svg)](https://github.com/Moilk/AwesomeStar)
+[![Awesome](https://img.shields.io/badge/%E2%AD%90-awesome-green.svg)](https://github.com/Moilk/awesome-star)
 
 
 
