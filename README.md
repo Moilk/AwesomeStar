@@ -53,11 +53,11 @@
 ### 硬件  
 
 - [awesome-electronics](https://github.com/monostable/awesome-electronics): 为电子工程师和爱好者提供的资源集合  
-
 - [CSI2Rx](https://github.com/daveshah1/CSI2Rx): 使用FPGA实现的4K/30fps MIPI CSI-2摄像头接口  
 - [lcd-image-converter](https://github.com/riuson/lcd-image-converter): 为屏幕应用创建图片和字体的工具，将图片和字体转换成C代码  
 - [ArduinoJson](https://github.com/bblanchon/ArduinoJson): 为Arduino、Espressif、WeMos等IoT硬件实现的Json库  
 - [ESP8266 Arduino](https://github.com/esp8266/Arduino): ESP8266的Arduino框架  
+- [CadLab](https://cadlab.io/): 相当于PCB设计版的github，目前只支持eagle pcb，可以在线预览sch和brd的内容，在网页上浏览历史记录，进行differ比较。同github一样，免费版只支持public仓库。
 
 ### 逆向  
 
